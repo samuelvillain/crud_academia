@@ -1,6 +1,6 @@
 package com.example.crud_academia.dto;
 
-public class ClienteDTO {
+public class RequestUpdateClienteDTO {
     private String nome;
     private String matricula;
     private String email;
